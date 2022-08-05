@@ -1,6 +1,6 @@
 - 👋 Hey, this is Anirudh, an undergrad student, pursuing Computer Science.
-I have a flair for data analytics and I plan on putting it to good use in the field of sports.
-Apart from that, I'm a web developer and a competitive coder.
+I have a flair for problem solving and developing and designing fully fledged, available systems.
+I am a competitive programmer and a sports enthusiast.
 Feel free to get in touch!
 
 <!---
